@@ -1,7 +1,0 @@
----
-
-labels: 'test'
-
----
-
-### Description
